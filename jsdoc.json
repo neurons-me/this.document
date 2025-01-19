@@ -3,7 +3,7 @@
     "include": ["./src", "./index.js", "./README.md"]
   },
   "opts": {
-    "destination": "/mnt/neuroverse/https-neurons/subDomains/docs/public/this.file",
+    "destination": "/mnt/neuroverse/https-neurons/subDomains/docs/public/this.document",
     "template": "../../../suign.github.io/Sandbox/better-docs/",
     "readme": "./README.md"
     },
@@ -19,8 +19,8 @@
         }
     },
     "better-docs": {
-        "name": "This.File",
-        "title": "This.File Docs", 
+        "name": "This.Document",
+        "title": "This.Document Docs", 
         "css": "style.css",
         "trackingCode": "-",
   "hideGenerator": false,
@@ -35,7 +35,7 @@
     },
     {
       "label": "Github",
-      "href": "https://github.com/neurons-me/this.file"
+      "href": "https://github.com/neurons-me/this.document"
     }
   ]
     }
