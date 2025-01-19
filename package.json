@@ -1,0 +1,22 @@
+{
+  "name": "this.file",
+  "version": "1.0.0",
+  "description": "Data Structuring Files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurons-me/this.file.git"
+  },
+  "keywords": [
+    "machineLearning"
+  ],
+  "author": "suiGn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neurons-me/this.file/issues"
+  },
+  "homepage": "https://github.com/neurons-me/this.file#readme"
+}
