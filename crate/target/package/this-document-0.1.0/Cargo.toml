@@ -30,7 +30,7 @@ keywords = [
 categories = [
     "command-line-utilities",
     "encoding",
-    "documents",
+    "document",
 ]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/neurons-me/this.audio"
