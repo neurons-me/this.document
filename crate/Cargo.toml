@@ -8,6 +8,6 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/neurons-me/this.audio"
 homepage = "https://neurons.me"
 readme = "README.md"
-keywords = ["Directories", "Data"]
-categories = ["command-line-utilities", "encoding", "directories"]
+keywords = ["Documents", "Data"]
+categories = ["command-line-utilities", "encoding", "documents"]
 [dependencies]
