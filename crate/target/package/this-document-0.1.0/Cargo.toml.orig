@@ -9,5 +9,5 @@ repository = "https://github.com/neurons-me/this.audio"
 homepage = "https://neurons.me"
 readme = "README.md"
 keywords = ["Documents", "Data"]
-categories = ["command-line-utilities", "encoding", "document"]
+categories = ["command-line-utilities", "encoding", "documents"]
 [dependencies]
