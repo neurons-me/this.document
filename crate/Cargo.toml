@@ -1,0 +1,13 @@
+[package]
+name = "this-document"
+version = "0.1.0"
+authors = ["suiGn <admin@neurons.me>"]
+edition = "2021"
+description = "This.Dir Data Formatter"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/neurons-me/this.audio"
+homepage = "https://neurons.me"
+readme = "README.md"
+keywords = ["Directories", "Data"]
+categories = ["command-line-utilities", "encoding", "directories"]
+[dependencies]
